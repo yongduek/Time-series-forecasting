@@ -28,3 +28,8 @@ ts2;12;monthly;1;2;4;5;5;6;8;9;10
 ...
 ts72;12;daily;1;2;4;5;5;6;8;9;10
 ```
+
+The following command executes R with the script and makes a directory named 'data' and puts there some sequence data for learning.
+```
+  $ Rscript CIF2016/src/cifPrepStl.R
+```
