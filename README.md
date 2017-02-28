@@ -22,8 +22,9 @@ Data file containing time series to be predicted is a text file having the follo
 - the rest of the row contains numeric data of the time series;
 - the number of values in each row may differ because each time series is of different length.
 - Example of the competition data format:
-
+```
 ts1;4;yearly;26.5;38.2;5.3
 ts2;12;monthly;1;2;4;5;5;6;8;9;10
 ...
 ts72;12;daily;1;2;4;5;5;6;8;9;10
+```
