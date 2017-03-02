@@ -1,4 +1,9 @@
-## Time-series-forecasting-using-CNTK
+# Time Series Decomposition & Forecasting
+
+Various techniques are experimented.
+
+
+### Time-series-forecasting-using-CNTK
 
 The code to accompany [“Time-series-forecasting-using-CNTK” tutorial][1] on Cortana Intelligence Gallery.
 
