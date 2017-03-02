@@ -9,13 +9,13 @@ The code to accompany [“Time-series-forecasting-using-CNTK” tutorial][1] on 
 
 [1]: https://gallery.cortanaintelligence.com/Tutorial/Forecasting-Short-Time-Series-with-LSTM-Neural-Networks-2
 
-## Data: see http://irafm.osu.cz/cif/main.php?c=Static&page=download
+#### Data: see http://irafm.osu.cz/cif/main.php?c=Static&page=download
 
-### Data Files
+#### Data Files
 cif-dataset.txt : dataset for learning.
 ci-results.txt : uncovered values that had to be forcasted.
 
-### Competition Data Format
+#### Competition Data Format
 
 Data file containing time series to be predicted is a text file having the following format:
 
