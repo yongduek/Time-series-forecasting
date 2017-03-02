@@ -2,6 +2,8 @@
 
 Various techniques are experimented.
 
+0. Time series forecasting using CNTK
+1. https://pypi.python.org/pypi/seasonal : a package for time series decomposition, X13, forecasting, etc
 
 ### Time-series-forecasting-using-CNTK
 
